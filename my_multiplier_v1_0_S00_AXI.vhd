@@ -1,3 +1,4 @@
+--Adjusted code from the GitHub repository, FPGA Developer https://github.com/fpgadeveloper/microzed-custom-ip/tree/master/Vivado
 library ieee;
     use ieee.std_logic_1164.all;
     use ieee.std_logic_arith.all;
